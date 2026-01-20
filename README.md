@@ -28,3 +28,16 @@ Task 3 – Filtering Data
 - Used LIKE
 - Used IN and BETWEEN
 - Used IS NULL
+
+
+
+
+
+Task 4 – Sorting and Limiting Data
+
+- Used ORDER BY (ASC, DESC)
+- Sorted on multiple columns
+- Used LIMIT and OFFSET
+- Combined ORDER BY with WHERE
+- Implemented pagination and leaderboard queries
+
