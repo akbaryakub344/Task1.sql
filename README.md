@@ -17,3 +17,14 @@ Task 2 – Data Types & Constraints
 - Used correct data types (INT, VARCHAR, DATE)
 - Modified table using ALTER TABLE
 - Added and dropped columns
+
+
+
+
+Task 3 – Filtering Data
+
+- Used WHERE clause
+- Used AND, OR
+- Used LIKE
+- Used IN and BETWEEN
+- Used IS NULL
