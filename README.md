@@ -41,3 +41,12 @@ Task 4 – Sorting and Limiting Data
 - Combined ORDER BY with WHERE
 - Implemented pagination and leaderboard queries
 
+Task 5 – Aggregate Functions & GROUP BY
+
+- Used COUNT, SUM, AVG, MIN, MAX
+- Implemented GROUP BY on departments
+- Used HAVING for filtered groups
+- Compared WHERE vs HAVING
+- Handled NULL values in aggregates
+
+
