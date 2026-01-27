@@ -68,3 +68,11 @@ Task 7 – Table Relationships & Foreign Keys
 - Demonstrated cascade delete behavior
 
 
+Task 8 – SQL Joins
+
+- Implemented INNER JOIN, LEFT JOIN, RIGHT JOIN
+- Simulated FULL JOIN using UNION
+- Used table aliases for readability
+- Demonstrated real-world department–employee mapping
+
+
