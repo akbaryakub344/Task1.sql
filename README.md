@@ -59,3 +59,12 @@ Task 6 – CRUD Operations
 - Demonstrated transactions and rollback
 
 
+Task 7 – Table Relationships & Foreign Keys
+
+- Created parent and child tables
+- Used PRIMARY KEY and FOREIGN KEY
+- Implemented ON DELETE CASCADE
+- Tested referential integrity with invalid inserts
+- Demonstrated cascade delete behavior
+
+
