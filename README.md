@@ -50,3 +50,12 @@ Task 5 – Aggregate Functions & GROUP BY
 - Handled NULL values in aggregates
 
 
+Task 6 – CRUD Operations
+
+- Created table and inserted records
+- Read full and filtered data
+- Updated records using WHERE
+- Deleted records safely
+- Demonstrated transactions and rollback
+
+
