@@ -75,4 +75,11 @@ Task 8 – SQL Joins
 - Used table aliases for readability
 - Demonstrated real-world department–employee mapping
 
+Task 9 – Subqueries (Nested Queries)
+
+- Used subqueries in WHERE, FROM, and SELECT
+- Implemented average salary logic
+- Demonstrated correlated subqueries
+- Compared subqueries with JOIN-based logic
+
 
