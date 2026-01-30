@@ -82,4 +82,12 @@ Task 9 – Subqueries (Nested Queries)
 - Demonstrated correlated subqueries
 - Compared subqueries with JOIN-based logic
 
+- Task 10 – SQL Views
+
+- Created SQL VIEW from join query
+- Queried data directly from views
+- Applied filtering and sorting on views
+- Demonstrated security and abstraction using views
+- Dropped and recreated views safely
+
 
